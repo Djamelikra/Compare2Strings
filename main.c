@@ -17,11 +17,7 @@ int main()
         printf("The two strings are not equals.\n");
 
 //    printf("Press any key to continue\n");
-//        getchar();
-
-        system("pause");
-
-
+//    getchar();
+    system("pause");
     return 0;
-
 }
