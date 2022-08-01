@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659373173 source:c:\users\djamel\workspace\codeblocks\langagec\compare2strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
