@@ -5,7 +5,7 @@
 int main()
 {
 
-    const int TAB_SIZE = 100;
+    const int TAB_SIZE = 65;
     char str1[TAB_SIZE];
     char str2[TAB_SIZE];
 
